@@ -20,7 +20,7 @@ textarea {
 }
 
 header {
-    padding: 16px 0;
+    padding: 10px;
     background-color: #e10600;
     color: #ecf0f1;
     font-family: Titillium Web, sans-serif;
@@ -71,6 +71,8 @@ section h1 {
 
 section p {
     margin-bottom: 8px;
+    text-indent: 10px;
+    text-align: justify;
 }
 
 section img {
@@ -96,13 +98,14 @@ section img {
 .small-img {
     max-width: 250px;
     width: 100%;
-    height: auto;
+    height: 80px;
 }
 
 table {
     width: 50%;
     border-collapse: collapse;
 }
+
 th, td {
     border: 1px solid #de706c;
     padding: 6px;
